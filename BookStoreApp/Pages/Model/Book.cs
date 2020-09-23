@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BookStoreApp.Pages.Model
 {
-    public class Class
+    public class Book
     {
         [Key]
         public int Id { get; set; }
